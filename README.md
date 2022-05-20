@@ -14,7 +14,7 @@ Builder|複雑なインスタンスを組み立てる|false
 Abstract Factory|関連する部品を組み合わせて製品を作る|false
 Bridge|機能の階層と実装の階層を分ける|false
 Strategy|アルゴリズムをごっそり切り替える|false
-Composite|容器の中身の同一視|false
+Composite|容器の中身の同一視|true
 Decorator|飾り枠と中身の同一視|false
 Visitor|構造を渡り歩きながら仕事をする|false
 Chain of Responsibility|責任のたらい回し|false
