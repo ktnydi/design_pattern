@@ -8,7 +8,7 @@ Iterator|処理を繰り返す|false
 Adapter|一皮かぶせて再利用|false
 Template Method|具体的な処理をサブクラスにまかせる|false
 Factory Method|インスタンス作成をサブクラスにまかせる|false
-Singleton|たった1つのインスタンス|false
+Singleton|たった1つのインスタンス|true
 Prototype|コピーしてインスタンスを作る|false
 Builder|複雑なインスタンスを組み立てる|false
 Abstract Factory|関連する部品を組み合わせて製品を作る|false
