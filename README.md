@@ -6,15 +6,15 @@
 ---|---|---
 Iterator|処理を繰り返す|
 Adapter|一皮かぶせて再利用|
-Template Method|具体的な処理をサブクラスにまかせる|:white_check_mark:
-Factory Method|インスタンス作成をサブクラスにまかせる|:white_check_mark:
-Singleton|たった1つのインスタンス|:white_check_mark:
+[Template Method](./dart/template_method)|具体的な処理をサブクラスにまかせる|:white_check_mark:
+[Factory Method](./dart/factory_method)|インスタンス作成をサブクラスにまかせる|:white_check_mark:
+[Singleton](./dart/singleton)|たった1つのインスタンス|:white_check_mark:
 Prototype|コピーしてインスタンスを作る|
 Builder|複雑なインスタンスを組み立てる|
 Abstract Factory|関連する部品を組み合わせて製品を作る|
 Bridge|機能の階層と実装の階層を分ける|
 Strategy|アルゴリズムをごっそり切り替える|
-Composite|容器の中身の同一視|:white_check_mark:
+[Composite](./dart/composite)|容器の中身の同一視|:white_check_mark:
 Decorator|飾り枠と中身の同一視|
 Visitor|構造を渡り歩きながら仕事をする|
 Chain of Responsibility|責任のたらい回し|
