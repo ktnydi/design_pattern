@@ -7,7 +7,7 @@
 Iterator|処理を繰り返す|
 Adapter|一皮かぶせて再利用|
 Template Method|具体的な処理をサブクラスにまかせる|:white_check_mark:
-Factory Method|インスタンス作成をサブクラスにまかせる|
+Factory Method|インスタンス作成をサブクラスにまかせる|:white_check_mark:
 Singleton|たった1つのインスタンス|:white_check_mark:
 Prototype|コピーしてインスタンスを作る|
 Builder|複雑なインスタンスを組み立てる|
